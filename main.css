@@ -1,0 +1,23 @@
+/*
+    Author: Lilith Pieper
+    Date:04/11/2022
+*/
+h1 {
+    color: green;
+}
+h2 {
+    font-family: fantasy;
+    color: blue;
+}
+a {
+    font-style: italic;
+    color: brown;
+}
+p {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,59 @@
+/*
+    Author: Lilith Pieper
+    Date: 04/11/2022
+*/
+main {
+    padding: 2em;
+    width: 70%;
+    margin: 0 auto;
+    background-color: #55CDFC;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: salmon;
+}
+h3 {
+    color: #F7A8B8;
+}
+body {
+    font-family: sans-serif;
+    background-image: url(../images/cactusBackground.jpg);
+}
+header {
+    text-align: center;
+}
+h1,h2,h3 {
+    font-family: serif;
+    letter-spacing: 0.5em;
+}
+nav {
+    font-size: 150%;
+}
+a {
+    text-decoration: none;
+    color: green;
+}
+p, li {
+    line-height: 150%;
+}
+ul {
+    list-style-type: square;
+}
+main a {
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+}
+a:visited {
+    color: RGB(69, 42, 0);
+}
+a:hover {
+    color: RGB(142, 69, 69);
+    text-shadow: 0.05em 0.05em;
+}
+section[id*="door"] {
+    background-color: white;
+}

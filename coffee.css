@@ -1,0 +1,32 @@
+h2 {
+    background-image: url("../images/beansBanner.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 5px;
+    border-radius: 15px 15px 0px 0px;
+    border-bottom: 5px solid #2E1B11;
+    text-shadow: 3px 3px grey;
+}
+table {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+td {
+    border: 3px solid #FFFFFF;
+    padding: 5px;
+    background-color: #F7E8DE;
+}
+th {
+    background-color: #2E1B11;
+    color: #FFFFFF;
+    padding: 3px;
+    border-radius: 5px 5px 0px 0px;
+}
+th.size {
+    width: 10%;
+}
+ul {
+    line-height: 15px;
+}
